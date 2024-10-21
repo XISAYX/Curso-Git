@@ -1,2 +1,2 @@
 # Curso-Git
-Practica,de Git
+Practica,de Git Para Pagina Web
